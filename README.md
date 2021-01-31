@@ -13,7 +13,7 @@ The following **required** functionality is complete:
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
-The following **optional** features are implemented:
+The following **optional** features are/will be implemented:
 
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
