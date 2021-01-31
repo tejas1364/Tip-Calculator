@@ -4,7 +4,7 @@ Tipper is a tip calculator application for iOS.
 
 Submitted by: Tejas Marimuthu
 
-Time spent: 12 hours spent in total
+Time spent: 10-12 hours spent in total
 
 ## User Stories
 
@@ -13,7 +13,7 @@ The following **required** functionality is complete:
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
-The following **optional** features are/will be implemented:
+The following **optional** features are be implemented:
 
 * [x] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/7rm3bjB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/KzH9Xyb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [EZGIF](https://ezgif.com).
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
@@ -51,3 +51,4 @@ Ran into many issues when fixing the layout of the multiple views on the UI, spe
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+*******
